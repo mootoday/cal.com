@@ -181,6 +181,17 @@ yarn dx
 echo 'NEXT_PUBLIC_DEBUG=1' >> .env
 ```
 
+#### Devbox Setup
+
+1. Install Devbox
+   ```sh
+   curl -fsSL https://get.jetify.com/devbox | bash
+   ```
+1. Start development environment
+   ```sh
+   devbox shell
+   ```
+
 #### Gitpod Setup
 
 1. Click the button below to open this project in Gitpod.
